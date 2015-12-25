@@ -3,7 +3,8 @@ html, body {
     padding: 0;
 }
 
-.container {
+.header {
+    background-color: blue;
     max-width: 940px;
     margin: 0 auto;
     padding: 0 10px;
