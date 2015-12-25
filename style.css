@@ -9,3 +9,8 @@ html, body {
     margin: 0 auto;
     padding: 0 10px;
 }
+
+.content-area {
+    background-color: blue;
+    height: 200px;
+}
