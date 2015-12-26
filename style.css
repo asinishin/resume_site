@@ -4,7 +4,7 @@ html, body {
 }
 
 .header {
-    background-color: blue;
+    background-color: midnightblue;
 }
 
 .header .container h1 {
@@ -12,14 +12,18 @@ html, body {
 }
 
 h1 {
+    font-size: 72px;
+    font-family: Helvetica;
     text-align: center;
     color: white;
     padding: 20px 0;
 }
+
 .content-area {
     background-color: red;
     height: 200px;
 }
+
 .footer {
     background-color: black;
     height: 100px;
@@ -32,3 +36,6 @@ h1 {
     color: white;
 }
 
+a:hover {
+    font-weight: bold;
+}
