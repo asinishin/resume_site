@@ -48,8 +48,6 @@ h3 {
 
 .articles {
     font-family: 'Helvetica Neue', Helvetica;
-    background-color: grey;
-    color: white;
 }
 
 .articles ul li {
@@ -63,7 +61,8 @@ h3 {
 a:hover {
     font-weight: bold;
 }
-ul
-{
+
+ul {
     list-style-type: none;
+    margin: 0;
 }
