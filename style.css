@@ -32,7 +32,9 @@ h3 {
 }
 
 .content-area {
-    background-color: red;
+    background-color: white;
+    width: 700px;
+    margin: auto;
 }
 
 .tagline {
