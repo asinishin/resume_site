@@ -20,6 +20,7 @@ h1 {
 }
 
 h2 {
+    font-size: 30px;
     text-align: center;
     margin: 0;
     padding: 20px 0;
@@ -103,11 +104,15 @@ h3 {
     padding: 20px;
 }
 
+.articles ul li a {
+    text-decoration: none;
+}
+
 .footer a {
     color: white;
 }
 
-a:hover {
+.footer a:hover {
     font-weight: bold;
 }
 
