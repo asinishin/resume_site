@@ -21,6 +21,14 @@ h1 {
     height: 200px;
 }
 .footer {
-    background-color: floralwhite;
-
+    background-color: black;
+    height: 100px;
+    color: white;
+    text-align: center;
+    padding-top: 42px;
 }
+
+.footer a {
+    color: white;
+}
+
