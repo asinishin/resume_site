@@ -70,3 +70,7 @@ ul {
     list-style-type: none;
     margin: 0;
 }
+
+.projects ul {
+    padding-left: 0;
+}
