@@ -13,15 +13,26 @@ html, body {
 
 h1 {
     font-size: 72px;
-    font-family: Helvetica;
+    font-family: 'Helvetica Neue', Helvetica;
     text-align: center;
     color: white;
+    padding: 20px 0;
+}
+
+h2 {
+    text-align: center;
     padding: 20px 0;
 }
 
 .content-area {
     background-color: red;
     height: 200px;
+}
+
+.tagline {
+    font-family: 'Helvetica Neue', Helvetica;
+    background-color: black;
+    color: white;
 }
 
 .footer {
