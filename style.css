@@ -42,6 +42,30 @@ h3 {
     background-color: black;
     color: white;
 }
+
+.badges p {
+    width: 300px;
+    //float: left;
+    margin: 0;
+}
+
+.badges-description {
+    float: left;
+    padding-left: 10px;
+}
+
+.badges img {
+    float: left;
+}
+
+.badges li {
+    margin-top: 10px;
+}
+
+.clear {
+    clear: both;
+}
+
 .footer {
     background-color: black;
     height: 100px;
